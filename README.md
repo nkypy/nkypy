@@ -1,7 +1,9 @@
 # Jack Shih
 
-
-![Jack Shih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkypy&show_icons=true)
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkypy&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkypy&layout=compact&langs_count=4"/>
+</p>
 
 Hi there 👋, I'm Jack Shih -- A backend programmer, basically using Python, Go and Rust.
 
